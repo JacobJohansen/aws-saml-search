@@ -10,8 +10,6 @@
       "matches": ["https://signin.aws.amazon.com/saml"],
       "js": [
         "jquery-3.2.1.slim.min.js",
-        "popper.min.js",
-        "bootstrap.min.js",
         "bootstrap-autocomplete.min.js",
         "account-search.js"
       ]
